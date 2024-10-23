@@ -1,3 +1,38 @@
+Metadata-Version: 2.1
+Name: matchering
+Version: 2.0.6
+Summary: Audio Matching and Mastering Python Library
+Home-page: https://github.com/sergree/matchering
+Author: Sergree
+Author-email: sergree@vk.com
+License: GPLv3
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Other Audience
+Classifier: Natural Language :: English
+Classifier: Topic :: Artistic Software
+Classifier: Topic :: Multimedia
+Classifier: Topic :: Multimedia :: Sound/Audio
+Classifier: Topic :: Multimedia :: Sound/Audio :: Analysis
+Classifier: Topic :: Multimedia :: Sound/Audio :: Conversion
+Classifier: Topic :: Utilities
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy>=1.23.4
+Requires-Dist: scipy>=1.9.2
+Requires-Dist: soundfile>=0.11.0
+Requires-Dist: resampy>=0.4.2
+Requires-Dist: statsmodels>=0.13.2
+
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://pip.me/sergree)
 
 ![Matchering 2.0](https://raw.githubusercontent.com/sergree/matchering/master/images/logo.png)
@@ -28,7 +63,7 @@ So **Matchering 2.0** will make your song sound the way you want! It opens up a 
 - You can make your music instantly sound like your favorite artist's music
 - You can make all the tracks on your new album sound the same very quickly
 - You can find new aspects of your sound in experiments
-- You can do everything as you want! Because of **[Your References, Your Rules.™](https://macprovideo.com/article/audio-software/sound-tools-instant-online-mastering-with-reference-matching-now-in-open-beta)** *(just a little nostalgic note)* 
+- You can do everything as you want! Because of **[Your References, Your Rules.â„¢](https://macprovideo.com/article/audio-software/sound-tools-instant-online-mastering-with-reference-matching-now-in-open-beta)** *(just a little nostalgic note)* 
 
 ![Matchering WEB GIF Animation](https://raw.githubusercontent.com/sergree/matchering/master/images/animation.gif "Matchering WEB")
 
